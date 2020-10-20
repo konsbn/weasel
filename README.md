@@ -5,4 +5,5 @@ Just do
 ```
   python weasel.py
   ```
-  
+## Watch it in action
+[![asciicast](https://asciinema.org/a/ZgaG9GBBwkwDNFobszl5NRa1L.svg)](https://asciinema.org/a/ZgaG9GBBwkwDNFobszl5NRa1L)
